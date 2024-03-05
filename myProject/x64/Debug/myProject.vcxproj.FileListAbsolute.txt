@@ -1,0 +1,2 @@
+D:\Codding\homeWork_1\task_1\mySolution\x64\Debug\myProject.exe.lastcodeanalysissucceeded
+D:\Codding\homeWork_1\task_1\mySolution\myProject\x64\Debug\NativeCodeAnalysis.read.1.tlog
