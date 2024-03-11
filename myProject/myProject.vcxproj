@@ -19,16 +19,21 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="factArray.cpp" />
+    <ClCompile Include="factFiller.cpp" />
+    <ClCompile Include="aClient.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fact.h" />
+    <ClInclude Include="factArray.h" />
     <ClInclude Include="factArray_interface.h" />
+    <ClInclude Include="factFiller.h" />
     <ClInclude Include="factFiller_interface_consol.h" />
     <ClInclude Include="factFiller_interface_rand.h" />
     <ClInclude Include="fact_interface_fill.h" />
     <ClInclude Include="fact_interface_retrieve.h" />
     <ClInclude Include="fileManager_interface.h" />
+    <ClInclude Include="historySaver_interface.h" />
     <ClInclude Include="randomCoreToFill_interface.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
