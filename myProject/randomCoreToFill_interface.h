@@ -3,6 +3,6 @@
 
 class randomCoreToFill_interface
 {
-private:
+public:
 	virtual ~randomCoreToFill_interface() = 0;
 };
