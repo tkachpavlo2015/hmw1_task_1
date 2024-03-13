@@ -8,7 +8,6 @@
 
 class randomCoreToFill
 {
-private:
 public:
 	std::vector<std::string> student;
 	std::vector<std::string> subject;

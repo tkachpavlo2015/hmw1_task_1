@@ -2,7 +2,7 @@
 #include<iostream>
 #include<string>
 
-void factFiller::consol_fill(fact_interface_fill& fact)
+void factFiller::consol_fill(fact& fact)
 {
 	char symbol;
 	std::string word;
@@ -16,7 +16,7 @@ void factFiller::setFactGenerator(randomCoreToFill& core)
 {
 	factGenerator = core;
 }
-void factFiller::random_fill(fact_interface_fill&)
+void factFiller::random_fill(fact& fact)
 {
-
+	factGenerator.wholeFactGenerating(fact);
 }
