@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="clientInterface.cpp" />
+    <ClCompile Include="fact.cpp" />
     <ClCompile Include="factArray.cpp" />
     <ClCompile Include="factFiller.cpp" />
     <ClCompile Include="aClient.cpp" />
