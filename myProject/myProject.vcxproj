@@ -19,7 +19,39 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="clientInterface.cpp" />
+    <ClCompile Include="fact.cpp" />
+    <ClCompile Include="factArray.cpp" />
+    <ClCompile Include="factFiller.cpp" />
+    <ClCompile Include="aClient.cpp" />
+    <ClCompile Include="factManager.cpp" />
+    <ClCompile Include="factSaver.cpp" />
+    <ClCompile Include="fileManager.cpp" />
+    <ClCompile Include="historySaver.cpp" />
+    <ClCompile Include="programInterface.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clientInterface.h" />
+    <ClInclude Include="clientInterface_interface.h" />
+    <ClInclude Include="fact.h" />
+    <ClInclude Include="factArray.h" />
+    <ClInclude Include="factArray_interface.h" />
+    <ClInclude Include="factFiller.h" />
+    <ClInclude Include="factFiller_interface_consol.h" />
+    <ClInclude Include="factFiller_interface_rand.h" />
+    <ClInclude Include="factManager.h" />
+    <ClInclude Include="factManager_interface.h" />
+    <ClInclude Include="factSaver.h" />
+    <ClInclude Include="factSaver_interface.h" />
+    <ClInclude Include="fact_interface_fill.h" />
+    <ClInclude Include="fact_interface_retrieve.h" />
+    <ClInclude Include="fileManager.h" />
+    <ClInclude Include="fileManager_interface.h" />
+    <ClInclude Include="historySaver.h" />
+    <ClInclude Include="historySaver_interface.h" />
+    <ClInclude Include="programInterface.h" />
+    <ClInclude Include="randomCoreToFill.h" />
+    <ClInclude Include="randomCoreToFill_interface.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

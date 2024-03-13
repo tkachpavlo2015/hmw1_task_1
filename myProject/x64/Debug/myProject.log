@@ -1,2 +1,7 @@
-﻿  Source.cpp
+﻿  fact.cpp
+  factFiller.cpp
+D:\Codding\homeWork_1\task_1\mySolution\myProject\randomCoreToFill.h(54,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "factFiller.cpp")
+  
+  Создание кода...
   myProject.vcxproj -> D:\Codding\homeWork_1\task_1\mySolution\x64\Debug\myProject.exe
