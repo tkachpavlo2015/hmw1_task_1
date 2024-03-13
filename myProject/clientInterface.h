@@ -4,11 +4,9 @@
 class clientInterface : public clientInterface_interface
 {
 private:
-	programInterface & program;
+	programInterface& program;
 public:
 	virtual ~clientInterface();
 	void dialogueStart();
 	void useProgramInterface(programInterface&);
-
 };
-

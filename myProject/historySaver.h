@@ -6,8 +6,10 @@ private:
 	char historyFile[20];
 public:
 	virtual ~historySaver();
-	virtual void newAct();
+	void fileNane(char*, int);
+	void fileNane(std::string);
+	void newReplic(char*);
+	void newReplic(std::string);
 	virtual void newDialogue();
-	virtual void continueDialogue();
 };
 

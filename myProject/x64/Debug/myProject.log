@@ -1,2 +1,6 @@
-﻿  aClient.cpp
+﻿  clientInterface.cpp
+  aClient.cpp
+  historySaver.cpp
+  programInterface.cpp
+  Создание кода...
   myProject.vcxproj -> D:\Codding\homeWork_1\task_1\mySolution\x64\Debug\myProject.exe

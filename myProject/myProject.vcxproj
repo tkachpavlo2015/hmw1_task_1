@@ -24,6 +24,7 @@
     <ClCompile Include="factFiller.cpp" />
     <ClCompile Include="aClient.cpp" />
     <ClCompile Include="factManager.cpp" />
+    <ClCompile Include="factSaver.cpp" />
     <ClCompile Include="fileManager.cpp" />
     <ClCompile Include="historySaver.cpp" />
     <ClCompile Include="programInterface.cpp" />
@@ -39,6 +40,8 @@
     <ClInclude Include="factFiller_interface_rand.h" />
     <ClInclude Include="factManager.h" />
     <ClInclude Include="factManager_interface.h" />
+    <ClInclude Include="factSaver.h" />
+    <ClInclude Include="factSaver_interface.h" />
     <ClInclude Include="fact_interface_fill.h" />
     <ClInclude Include="fact_interface_retrieve.h" />
     <ClInclude Include="fileManager.h" />
